@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541459463462",
+    "project_id": "artistry-447d6",
+    "storage_bucket": "artistry-447d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541459463462:android:0f026f51e5a3acb82815e7",
+        "android_client_info": {
+          "package_name": "com.example.artistry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541459463462-p9v6daol22qu8jf7rro3uuvp6oma6smf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvXTVq1ITuLor3c6MSC_RY10iSPSRsXVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541459463462-p9v6daol22qu8jf7rro3uuvp6oma6smf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
